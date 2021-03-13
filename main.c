@@ -4,7 +4,7 @@
 
 int main(int argc, char const *argv[])
 {
-    printf("Ya pidoras\n");
+    
 
     return 0;
 }
